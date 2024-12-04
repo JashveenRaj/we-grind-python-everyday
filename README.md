@@ -1,8 +1,4 @@
-Here’s a revised, short, mildly funny, and practical README:  
-
----
-
-# **we-grind-python-everyday**  
+# **We-grind-python-everyday**  
 
 This is my personal Python playground. Here, I upload the codes I write as I learn, practice, and solve problems. Nothing fancy, just me getting better at Python one grind at a time.  
 
