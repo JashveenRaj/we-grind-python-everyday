@@ -1,5 +1,5 @@
 
-def prime_or_not(result):
+def prime_or_not(num):
     is_prime = True
     if(num ==1):
         print(f"{num} is not a prime number")
@@ -16,4 +16,4 @@ def prime_or_not(result):
         print(f"{num} is not a prime number")   
 
 num = int(input("Enter a number: "))
-result = prime_or_not(num)
+prime_or_not(num)
